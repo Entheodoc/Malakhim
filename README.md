@@ -28,6 +28,16 @@ How this informs the dashboard design.
 
 -The dashboard highlights logistical risk factors (e.g. Multiple pharmacies, long gaps between fills, missed delivery attempts).
 
+-The design intentionaly supports workflows aimed at reducing physical distance between the older adults and their medications, such as: 
+   -synchronization of refills,
+   -home delivery or mail order,
+   -blister packs or pill organizers,
+   -caregiver, case manager, and family involvement,
+   -facilitation of technologic solutions such as telemedicine.
+
+-Operational metrics are intended to allow the team to monitor how well access barriers are being addressed overt time. (e.g., "time from gap occurrence to identification", "percentage of patients converted to a larger prscription days supply, delivery or synchronization").
+   
+
 
 
 # 3-Achieving measurable improvement in patient health outcomes. 
